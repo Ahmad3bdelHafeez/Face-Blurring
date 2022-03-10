@@ -1,7 +1,7 @@
 # Face-Blurring
 Privacy Protection is a real-world application by detection the faces in the input images and blurred these faces.
 - - - -
-![Face-Blurring](http://via.placeholder.com/200x150 "Title is optional")
+![Face-Blurring](https://github.com/Ahmad3bdelHafeez/Face-Blurring/blob/main/output%206.PNG "Face-Blurring")
 # High level pseudo-code for input image called it ‘im’:
 1.	Get faces in ‘im’ by used ‘CaffeeModel’ Pre-trained model for face detection.
 2.	Use OpenCV for applying smoothing filter (blur) on ‘im’ called it ‘blur-im’.
