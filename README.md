@@ -9,10 +9,7 @@ Privacy Protection is a real-world application by detection the faces in the inp
     1.	Calculate the boundary box of the face.
     2.	Get area of the boundary box from ‘blur-im’.
     3.	Replace the area into ‘im’. (To blur the face only)
-# Demo:
-Run the Colab Notebook and see results.
-# Code:
-Download it from this repository.
+# Demo: [[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gcnPn2DH_eBPAEde0g7dvXCeKRC4Lbkx?usp=sharing)]
 # How to run:
 1.	Install the dependencies packages from ‘requirements.txt’ file.
 2.	Write your test image path in ‘main.py’ file.
